@@ -1,0 +1,16 @@
+body {
+  font-family: Rubik, Helvetica, Arial, sans-serif;
+}
+
+.title {
+    text-align: center;
+    color: rgb(65, 182, 225);
+    background-color: grey;
+}
+
+.recipe-list {
+    font-style: italic;
+    font-size: 14px;
+    text-align: left;
+    background-color: hsla(0, 100%, 50%, 0.3);
+}

@@ -1,0 +1,19 @@
+body {
+    font-family: Rubik, Helvetica, Arial, sans-serif;
+}
+
+.title {
+    text-align: center;
+    background-color: aqua;
+}
+
+img {
+    height: auto;
+    width: 50%;
+}
+
+.content {
+    background-color: grey;
+    margin: 20px;
+    border: 5px solid;
+}
